@@ -1,6 +1,6 @@
 *.iml
 .gradle
-.github/workflows/hello_world.yml
+*.yml
 /local.properties
 /.idea/caches
 /.idea/libraries
