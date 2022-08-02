@@ -13,4 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
-/.github/workflows/hello_world.yml
+hello_world.yml
