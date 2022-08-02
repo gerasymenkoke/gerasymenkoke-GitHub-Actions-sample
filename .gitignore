@@ -1,6 +1,6 @@
 *.iml
 .gradle
-.yml
+*.yml
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -14,4 +14,4 @@
 .externalNativeBuild
 .cxx
 local.properties
-hello_world.yml
+
