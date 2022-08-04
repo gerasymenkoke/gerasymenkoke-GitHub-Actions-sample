@@ -1,8 +1,7 @@
 name: Test_and_build_artifacts_on_release
 
 on: 
-  push: 
-    branches: [ main ] 
+ 
   pull_request: 
     branches: [ main ]
 
