@@ -1,8 +1,9 @@
 name: PR_unit_tests
 
-on: 
-  push: 
-    branches: [ main ] 
+on:
+  pull_request:
+    branches: [ main ]
+	   
      
 
 jobs:
